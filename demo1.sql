@@ -52,7 +52,7 @@ INSERT INTO USERS (firstName,lastName,email,phone,age,nationality) VALUES
 ('Hai','Cu chi','haiC3@gmail.com','0912313413',26,'CHINA')
 ;
 
-SELECT * FROM USERS;SELECT * FROM USERS;
+SELECT * FROM USERS;
 
 UPDATE USERS SET EMAIL = 'haiGV' WHERE ID=3;
 
